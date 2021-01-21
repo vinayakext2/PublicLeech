@@ -7,7 +7,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 ## installing
 
 ### Installation
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+I [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/playkuttan/PublicLeech)
 
 ### The Eas(iest) Way
 
